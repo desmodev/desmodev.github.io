@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professional copy-editing and proofreading
+subtitle: <b>Professional copy-editing and proofreading</b>
 
 profile:
   align: right
