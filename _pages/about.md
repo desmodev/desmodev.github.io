@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professional thesis copy-editing and proofreading
+subtitle: Professional copy-editing and proofreading
 
 profile:
   align: right
