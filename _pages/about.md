@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-Professional thesis copy-editing and proofreading
+subtitle: Professional thesis copy-editing and proofreading
 
 profile:
   align: right
