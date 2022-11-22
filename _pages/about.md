@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Professional editing services</b><br>Specialising in higher degree research theses
+subtitle: <b>Professional editing services</b><br/>Specialising in higher degree research theses
 
 
 profile:
