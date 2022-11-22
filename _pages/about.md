@@ -7,7 +7,7 @@ subtitle: <b>Professional copy-editing and proofreading</b>
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>des@desdev.au</p>
     <p>0421 733 892</p>
