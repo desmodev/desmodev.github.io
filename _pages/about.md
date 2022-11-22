@@ -6,7 +6,7 @@ subtitle: <b>Professional copy-editing and proofreading</b>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile-180x210.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>des@desdev.au</p>
