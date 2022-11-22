@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Des Devlin - thesis editing #blank # the website title (if blank, full name will be used instead)
 first_name: Des
 middle_name: 
 last_name: Devlin
@@ -12,8 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: editing, proofreading, thesis, dissertation, PhD  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -115,12 +114,12 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Articles # blog_name will be displayed in your blog page
 blog_nav_title: articles # your blog must have a title for it to be displayed in the nav bar
-blog_description: Resources for thesis editing
-permalink: /articles/:year/:title/
+blog_description: Notes on thesis editing
+permalink: /articles/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
 disqus_shortname: al-folio # put your disqus shortname
@@ -142,7 +141,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /articles/:path/
+    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
