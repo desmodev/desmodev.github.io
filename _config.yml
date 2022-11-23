@@ -145,7 +145,7 @@ collections:
 news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 3 # leave blank to include all the news in the `_news` folder
 
-{% link _posts/2022-11-23-working-with-an-editor.md %}
+<a href={{ site.baseurl }}{% link _posts/2022-11-23-working-with-an-editor.md %}>{{ site.baseurl }}{% link _posts/2022-11-23-working-with-an-editor.md %}</a>
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
