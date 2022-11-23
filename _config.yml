@@ -142,6 +142,8 @@ collections:
     output: true
     permalink: /news/:path/
   blog:
+    defaults:
+      layout: post
     output: true
     permalink: /blog/:path/
 
