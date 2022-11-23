@@ -2,9 +2,9 @@
 layout: post
 title:  Working with an editor
 date:   2022-11-22 18:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+description: putting your requirements into a brief
+tags: thesis dissertation  
+categories: reference
 ---
 
 Editorial requirements for your research thesis can vary widely and are often determined by your supervisor. 
