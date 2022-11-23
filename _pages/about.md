@@ -24,5 +24,5 @@ I have been involved in many aspects of publishing and media production, includi
 
 Contact me via [email](mailto:des@desdev.au) or [phone](tel:+:0421733892) to discuss your thesis requirements. 
 
-For further information on working with an editor, please refer to the following articles:
+For further information on working with an editor, please refer to the following posts:
 
