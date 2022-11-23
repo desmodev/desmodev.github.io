@@ -136,14 +136,14 @@ disqus_shortname: # al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  blog:
+  posts:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /posts/:path/
 
-news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 3 # leave blank to include all the news in the `_news` folder
+posts_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+posts_limit: 3 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
