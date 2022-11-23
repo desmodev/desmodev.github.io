@@ -2,7 +2,7 @@
 layout: post
 title:  Working with an editor
 date:   2022-11-22 18:40:16
-description: putting your requirements into a brief
+description: Putting your requirements into a brief
 tags: thesis dissertation  
 categories: reference
 ---
