@@ -140,11 +140,6 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
-  posts:
-      defaults:
-      layout: post
-    output: true
     permalink: /posts/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
