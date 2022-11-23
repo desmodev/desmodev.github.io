@@ -5,7 +5,7 @@ date:   2022-11-22 18:40:16
 description: Putting your requirements into a brief
 tags: thesis dissertation  
 categories: reference
-inline: true
+inline: false
 ---
 
 Editorial requirements for your research thesis can vary widely and are often determined by your supervisor. 
