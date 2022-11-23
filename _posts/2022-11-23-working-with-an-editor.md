@@ -6,7 +6,7 @@ description: march & april, looking forward to summer
 tags: formatting links
 categories: sample-posts
 ---
-Working with an editor 
+<h1>Working with an editor</h1> 
 
 Editorial requirements for your research thesis can vary widely and are often determined by your supervisor. 
 
