@@ -15,7 +15,7 @@ profile:
     <p>Blue Mountains AU</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -26,5 +26,4 @@ I have been involved in many aspects of publishing and media production, includi
 Contact me via [email](mailto:des@desdev.au) or [phone](tel:+:0421733892) to discuss your thesis requirements. 
 
 For further information on working with an editor, please refer to the following articles:
-
 
