@@ -26,3 +26,11 @@ Contact me via [email](mailto:des@desdev.au) or [phone](tel:+:0421733892) to dis
 
 For further information on working with an editor, please refer to the following posts:
 
+          {% if page.news -%}
+          <!-- News -->
+          {%- include news.html %}
+          {%- endif %}
+          {% if page.selected_papers -%}
+            <!-- Selected papers -->
+            {%- include selected_papers.html %}
+          {%- endif %}

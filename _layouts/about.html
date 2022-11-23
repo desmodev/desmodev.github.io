@@ -48,10 +48,6 @@ layout: default
             {% endfor %}
           </ul>
 
-          {% for post in site.posts %}
-		      <time>{{ post.date | date: "%b %-d, %Y" }}</time>: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          {% endfor %}
-
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
