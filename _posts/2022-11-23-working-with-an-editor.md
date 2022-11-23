@@ -21,8 +21,8 @@ Your supervisor will most likely have requested that your work conform to your u
 
 A thesis is substantively the product of original research and as such requires your editor adhere to established guidelines (usually the Australian Standards for Editing Practice) which set out the acceptable level of editorial intervention in the text. 
 
-- I certify that the intellectual content of this thesis is the product of my own work and that all the assistance received in preparing this thesis and sources have been acknowledged. 
-[<a href=https://www.sydney.edu.au/students/prepare-thesis.html](https://www.sydney.edu.au/students/prepare-thesis.html).
+Ref. I certify that the intellectual content of this thesis is the product of my own work and that all the assistance received in preparing this thesis and sources have been acknowledged. 
+[https://www.sydney.edu.au/students/prepare-thesis.html](https://www.sydney.edu.au/students/prepare-thesis.html).
 
 Therefore, for ethical reasons, your editor will take more of a proofreading approach compared to that of an article or manuscript which may allow for deeper editorial engagement.  
 
