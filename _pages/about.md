@@ -9,8 +9,8 @@ profile:
   image: Profile-180x210.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href=mailto:des@desdev.au>des@desdev.au</a><br></p>
-    <p>0421 733 892<br></p>
+    <p><a href=mailto:des@desdev.au>des@desdev.au</a></p><br/>
+    <p>0421 733 892</p><br/>
     <p>Blue Mountains AU</p>
 
 news: true  # includes a list of news items
