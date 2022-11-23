@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Professional editing services</b>
+subtitle: <b>Professional editing services</b>`
 
 
 profile:
