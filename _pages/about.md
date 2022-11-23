@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <b>Professional editing services</b>`
 
-
 profile:
   align: right
   image: Profile-180x210.jpg
@@ -15,7 +14,7 @@ profile:
     <p>Blue Mountains AU</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
