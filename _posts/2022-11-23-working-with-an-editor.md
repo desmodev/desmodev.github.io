@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Working with an editor
-date:   2022-11-23 18:40:16
+date:   2022-11-22 18:40:16
 description: march & april, looking forward to summer
 tags: formatting links
 categories: sample-posts
