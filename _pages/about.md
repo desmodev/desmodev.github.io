@@ -26,10 +26,12 @@ Contact me via [email](mailto:des@desdev.au) or [phone](tel:+:0421733892) to dis
 
 For further information on working with an editor, please refer to the following posts:
 
-           (<ul>)
+<div class="post">
+           <ul>
             {% for post in site.posts %}
               <li>
                 <a href="{{ post.url }}">{{ post.title }}</a>
               </li>
             {% endfor %}
-          (</ul>)
+          </ul>
+</div>          
