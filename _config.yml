@@ -70,7 +70,7 @@ mastodon_username: mastodon.ie/@desdev # your mastodon instance+username in the 
 linkedin_username: desdevlin # your LinkedIn user name
 whatsapp_number: 61421733892 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
-work_url: contentmonkey.com.au # work page URL
+work_url: https://contentmonkey.com.au # work page URL
 
 contact_note: >
   I acknowledge the traditional owners of the Darug and Gundungurra lands on which I live and work,<br/> and pay respects to elders, past and present.
@@ -120,7 +120,7 @@ collections:
     output: false
     permalink: /news/:path/
   projects:
-    output: false # don't need
+    output: false 
     permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
