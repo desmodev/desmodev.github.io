@@ -26,5 +26,5 @@ So, for ethical reasons, your editor will be required to carefully moderate thei
 
 Most institutions now require that the use of an editor be acknowledged in the front matter of the thesis. 
 
-Additionally, further acknowledgement may also be required if the editor’s current or former area of academic specialisation is similar to that of the student's.
+Additionally, further acknowledgement may also be required if the editor’s current or former area of academic specialisation is similar to the student's.
 
