@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Working with an editor
+title:  Getting your brief in order
 date:   2022-11-22 18:40:16
-description: Putting your requirements into a brief
+description: Working with an editor
 tags: thesis dissertation  
 categories: reference
 inline: false
