@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Getting your brief in order
+title:  Putting your brief in order
 date:   2022-11-22 18:40:16
 description: Working with an editor
 tags: thesis dissertation  
