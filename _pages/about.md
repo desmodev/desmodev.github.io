@@ -9,7 +9,7 @@ profile:
   image: Profile-180x210.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href=mailto:des@desdev.au>des@desdev.au</a><br/></p>
+    <p><a href=mailto:des@desdevlin.au>des@desdevlin.au</a><br/></p>
     <p>0421 733 892<br/></p>
     <p>Blue Mountains AU</p>
 
@@ -22,7 +22,7 @@ Welcome! I provide professional proofreading and copy-editing services to HDR st
 
 I have been involved in many aspects of publishing and media production, including proofreading, copy-editing, news sub-editing, archives development, and photographic and video production. My doctoral study focused on research methods in visual ethnography and post/subcultural theory, and my masters research was in the area of ethics and legal studies with a media focus.
 
-Contact me via [email](mailto:des@desdev.au) or [phone](tel:+:0421733892) to discuss your thesis requirements. 
+Contact me via [email](mailto:des@desdevlin.au) or [phone](tel:+:0421733892) to discuss your thesis requirements. 
 
 For further information on preparing your thesis, please refer to the following posts:
 
