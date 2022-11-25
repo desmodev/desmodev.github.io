@@ -297,6 +297,19 @@ footer.sticky-bottom {
   font-size: 0.9rem;
 }
 
+// Specialisation
+
+.tcol {
+  float: left;
+  width: 50%;
+}
+
+.trow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 // CV
 
 .cv {
