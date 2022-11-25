@@ -22,7 +22,7 @@ Welcome! I provide professional proofreading and copy-editing services to HDR st
 
 I have been involved in many aspects of publishing and media production, including proofreading, copy-editing, news sub-editing, archives development, and photographic and video production. My doctoral study focused on research methods in visual ethnography and post/subcultural theory, and my masters research was in the area of ethics and legal studies with a media focus.
 
-Contact me via [email](mailto:des@contentmonkey.com.au) or [phone](tel:+:0421733892) to discuss your thesis requirements. 
+Contact me via [email](mailto:des@contentmonkey.com.au) or [phone](tel:+:0421733892) to discuss your requirements. 
 
 For further information on preparing your thesis, please refer to the following posts:
 
