@@ -299,9 +299,11 @@ footer.sticky-bottom {
 
 // Specialisation
 
-.tcol {
-  float: left;
-  width: 50%;
+@media screen and (max-width: 600px) {
+  .tcol {
+    float: left;
+    width: 50%;
+    padding: 10px;
 }
 
 .trow:after {
