@@ -9,7 +9,7 @@ profile:
   image: Profile-180x210.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href=mailto:des@desdevlin.au>des@desdevlin.au</a><br/></p>
+    <p><a href=mailto:des@contentmonkey.com.au>des@contentmonkey.com.au</a><br/></p>
     <p>0421 733 892<br/></p>
     <p>Blue Mountains AU</p>
 
