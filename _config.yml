@@ -209,8 +209,8 @@ display_tags: ['PhD', 'masters', 'dissertation', 'thesis', 'editing', 'proofread
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Devlin]
+  first_name: [Des]
 
   style: apa
   locale: en
