@@ -6,3 +6,9 @@ description: Why EndNote is your friend
 tags: thesis dissertation
 categories: reference
 ---
+
+<form method="POST" action="https://formspree.io/f/xpznejyr">
+    <input type="email" name="email" placeholder="Your email">
+    <textarea name="message" placeholder="Test Message"></textarea>
+    <button type="submit">Send Test</button>
+  </form>
