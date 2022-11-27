@@ -110,12 +110,6 @@ disqus_shortname: # al-folio # put your disqus shortname
 #    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
-# Contact form page
-# -----------------------------------------------------------------------------
-
-layout: contact
-
-# -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
@@ -127,7 +121,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: false 
-    permalink: /projects/:path/
+permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
