@@ -16,11 +16,11 @@ $max-content-width: {{ site.max_width }};
 
 // Contact form
 
-.contact-form { $max-content-width: 90%; }
+.contact-form { $max-content-width: 90%; 
+  margin-bottom: 1em; 
 @media screen and (max-width: 600px) {
-  .contact-form {
     width: 100%;
-    margin-bottom: 1em; 
+    margin-bottom: .5em; 
   }
 }
 
