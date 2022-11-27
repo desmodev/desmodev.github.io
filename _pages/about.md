@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <b>Professional editing services</b>
+description: Professional proofreading and copy-editing services to HDR students and academics.
 
 profile:
   align: right
