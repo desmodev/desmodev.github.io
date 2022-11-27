@@ -16,14 +16,14 @@ $max-content-width: {{ site.max_width }};
 
 // Contact form
 
-.contact-form { $max-content-width: 80%; float: right; }
+.contact-form { $max-content-width: 90%; }
 @media screen and (max-width: 600px) {
   .contact-form {
     width: 100%;
   }
 }
 
-button { background-color: #ffffff; }
+button { background-color: #ffffff; float: right;}
 
 input[type="text"], input[type="email"], input[type="search"], 
 input[type="submit"], button, textarea { 
