@@ -6,5 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-<h1>Contact form</h1>
+<h1>Contact</h1>
+
 
