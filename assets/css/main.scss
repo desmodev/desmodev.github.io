@@ -26,8 +26,7 @@ input[type="submit"], button, textarea {
                 "Roboto", "Oxygen", "Ubuntu", "Cantarell", 
                 "Fira Sans", "Droid Sans", "Helvetica Neue", 
                 Arial, sans-serif; 
+ background-color: none;
 }
 
 textarea { width: 80%;  resize: none; }
-
-#form-tweak { border-bottom: none; }
