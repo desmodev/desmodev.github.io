@@ -21,5 +21,5 @@ So, it's no small wonder that an editor will want to know you have made use of a
 
 Use of a reference manager is especially important for students integrating words from a foreign language in their work. For non-Roman languages, referencing can require transliteration and translation from the original script. This is most easily done at the outset of writing the thesis rather than at the eleventh hour. 
 
-For those incorporating a non-Roman language and writing within the discipline of law, the rules are different again. For example, the Australian Guide to Legal Citation (AGLC) requires that, when citing Chinese primary materials, 'Chinese characters that appear in the source should not be transliterated into pinyin'. (See AGLC 4, 16.1.) 
+For those incorporating a non-Roman language and writing within the discipline of law, the rules are different again. For example, the Australian Guide to Legal Citation requires that, when citing Chinese primary materials, 'Chinese characters that appear in the source should not be transliterated into pinyin'. (See AGLC 4, 16.1.) 
 
