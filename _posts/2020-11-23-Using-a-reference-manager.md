@@ -11,7 +11,7 @@ When you're writing a thesis of 10,000 words, a reference manager is a good way 
 
 Though there are a number of reference management software packages to choose from, your university most likely provided you with a version of EndNote at the start of your studies, and a workshop in the use of EndNote was also most likely offered at the same time. 
 
-Using a reference manager like EndNote can be, for some, a little daunting. There is a learning curve. However, investing time early on will reap massive rewards when it comes time to work with a thesis editor. 
+For some, using a reference manager like EndNote can be at first a little daunting. There is a learning curve. However, investing time early on will reap massive rewards when it comes time to work with a thesis editor. 
 
 EndNote is used in combination with a word processor, such as Microsoft Word, allowing you to create citations and references as you write. Over time, this creates a store of entries in the program's database which will automatically generate your reference list or bibliography, and can be connected to the digital libraries of universities and institutions around the world. 
 
