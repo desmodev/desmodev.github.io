@@ -16,7 +16,7 @@ An editor will want to know the style you have used throughout your thesis (e.g.
 
 They will also want to you to provide them with a word count which, depending on the university, department or supervisor's preferences, may or may not include your reference list or bibliography, footnotes or endnotes, figures, front matter, appendices and other structural elements of your thesis. 
 
-In some cases, an editor may request a sample of your thesis in order to better gauge the level of work required. This is especially so if your thesis integrates words from a non-Latin language. 
+In some cases, an editor may request a sample of your thesis in order to better gauge the level of work required. This is especially so if your thesis integrates words from a non-Roman language. 
 
 Your supervisor will most likely have requested that your work conform to your university’s style guide.  
 
