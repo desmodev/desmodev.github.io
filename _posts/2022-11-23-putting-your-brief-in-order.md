@@ -28,3 +28,23 @@ Most institutions now require that the use of an editor be acknowledged in the f
 
 Additionally, further acknowledgement may also be required if the editor’s current or former area of academic specialisation is similar to the student's.
 
+The University of Sydney defines the role of copy-editing and proofreading as: 
+
+<blockquote>
+identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions, including:
+
+• spelling
+• quotations
+• use of italics
+• lists
+• word usage
+• punctuation
+• graphs
+• charts
+• citations
+• references
+• heading hierarchies
+• symbols and equations
+• headers and footers
+• style of numbers
+</blockquote>
