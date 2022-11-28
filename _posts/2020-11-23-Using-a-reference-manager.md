@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using a reference manager (tbc)
+title: Using a reference manager (wip)
 date: 2021-11-23 21:01:00
 description: Why EndNote is your friend
 tags: thesis dissertation
