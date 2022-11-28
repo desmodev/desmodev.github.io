@@ -12,7 +12,9 @@ Editorial requirements for your research thesis can vary widely and are often de
 
 An important first step in working with an editor is communicating your requirements. Think of this as providing a brief. 
 
-An editor will want to know the style you have used throughout your thesis (e.g., an author-date style such as APA, or a notes and bibliography style such as Chicago) and whether the text contains much visual data, such as tables and figures, among other things. 
+An editor will want to know the style you have used throughout your thesis (e.g., an author-date style such as APA, or a notes and bibliography style such as Chicago) and whether the text contains much visual data, such as tables and figures. 
+
+They will also want to you to provide them with a word count which, depending on the university, department or supervisor's preferences, may or may not include your reference list or bibliography, footnotes or endnotes, figures, front matter, appendices and other structural elements of your thesis. 
 
 Your supervisor will most likely have requested that your work conform to your university’s style guide.  
 
