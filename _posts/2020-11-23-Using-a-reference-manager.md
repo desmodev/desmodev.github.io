@@ -9,7 +9,7 @@ categories: reference
 
 When you're writing a thesis of 10,000 words, a reference manager is a good way to manage and keep track of your sources; when putting together a thesis of 80,000 to 100,000 words, you will quickly become lost without one. 
 
-Though there are a number of reference management software packages to choose from, your university has most likely provided you with a version of EndNote. 
+Though there are a number of reference management software packages to choose from, your university most likely provided you with a version of EndNote at the start of your studies, and a workshop in the use of EndNote was also most likely offered at the same time. 
 
 Using a reference manager like EndNote can be, for some, a little daunting. There is a learning curve. However, investing time early on will reap massive rewards when it comes time to work with a thesis editor. 
 
@@ -21,5 +21,5 @@ So, it's no small wonder that an editor will want to know you have made use of a
 
 Use of a reference manager is especially important for students integrating words from a foreign language in their work. For non-Roman languages, referencing can require transliteration and translation from the original script. This is most easily done at the outset of writing the thesis rather than at the eleventh hour. 
 
-For those writing within the disciplne of law and incorporating a non-Roman language, the rules are different again. For example, the Australian Guide to Legal Citation (AGLC) requires that, when citing Chinese primary materials, 'Chinese characters that appear in the source should not be transliterated into pinyin.… \[And,\]  where an element of a citation would ordinarily be italicised according to the relevant rule of this Guide,  Chinese characters forming that element should appear between guillemets'. (See AGLC 4, 16.1.) 
+For those incorporating a non-Roman language and writing within the discipline of law, the rules are different again. For example, the Australian Guide to Legal Citation (AGLC) requires that, when citing Chinese primary materials, 'Chinese characters that appear in the source should not be transliterated into pinyin'. (See AGLC 4, 16.1.) 
 
