@@ -14,7 +14,7 @@ An important first step in working with an editor is communicating your requirem
 
 An editor will want to know the style you have used throughout your thesis; for example, an author-date style such as APA, or a notes and bibliography (NB) style such as Chicago. 
 
-They may also want to know of any formatting requirements outside of the university or department style guide. 
+They will also most likely want to know whether the text contains visual data, such as tables and figures, and a word count, which will vary depending on your university, department or supervisor's requirements.
 
 Your supervisor will most likely have requested that your work conform to your university’s style guide.  
 
