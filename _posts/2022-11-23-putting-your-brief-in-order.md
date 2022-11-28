@@ -41,7 +41,7 @@ The [University of Sydney](https://www.sydney.edu.au/policies/showdoc.aspx?recnu
   - heading hierarchies
   - symbols and equations
   - headers and footers
-  - style of numbers'.
+  - style of numbers.
 
 
 
