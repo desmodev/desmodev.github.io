@@ -46,5 +46,5 @@ The University of Sydney (2020) defines the role of copy-editing and proofreadin
   - style of numbers'.
 
 --
-University of Sydney. (2020). *Thesis and Examination of Higher Degrees by Research Procedures 2020*. https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&RendNum=0
+University of Sydney. (2020, June 9). *Thesis and Examination of Higher Degrees by Research Procedures 2020*. [https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&RendNum=0](https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&RendNum=0)
 
