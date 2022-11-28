@@ -24,7 +24,7 @@ In many cases, decisions aroung footnoting and referencing style are left to the
 
 A thesis is substantively the product of original research and as such requires that your editor follow established guidelines (e.g., the Australian Standards for Editing Practice) which set out the acceptable level of editorial intervention in the text. 
 
-So, for ethical reasons, your editor will be required to carefully moderate their editorial intervention in the text. 
+So, for ethical reasons, your editor will be required to carefully moderate their input. 
 
 Most institutions now require that the use of an editor be acknowledged in the front matter of the thesis. 
 
