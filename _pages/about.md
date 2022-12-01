@@ -25,7 +25,7 @@ I have been involved in many aspects of publishing and media production, includi
 
 Contact me via [email](mailto:des@contentmonkey.com.au) or [phone](tel:+:0421733892) to discuss your requirements. 
 
-HDR students may find the following posts helpful for preparing your thesis:
+HDR students may find the following posts helpful in preparing your thesis:
 
 <div class="post">
            <ul>
