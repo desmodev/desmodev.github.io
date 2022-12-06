@@ -2,7 +2,7 @@
 layout: post
 title:  Putting your brief in order
 date:   2022-11-22 18:40:16
-description: Working with a thesis editor
+description: The editing process
 tags: thesis dissertation  
 categories: reference
 inline: false
