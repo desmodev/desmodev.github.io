@@ -30,7 +30,7 @@ Most institutions now require that the use of an editor be acknowledged in the f
 
 Additionally, further acknowledgement may be required if the editor’s academic background is similar to the student's area of study.
 
-The role of copy-editing and proofreading has been defined as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'.<sup>1</sup> &#00B9
+The role of copy-editing and proofreading has been defined as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'.<sup>1</sup>
 
 --
 
