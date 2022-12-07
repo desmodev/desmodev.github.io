@@ -23,3 +23,4 @@ Use of a reference manager is especially important for students integrating word
 
 For those incorporating a non-Roman language and writing within the discipline of law, the rules are different again. For example, the Australian Guide to Legal Citation requires that, when citing Chinese primary materials, 'Chinese characters that appear in the source should not be transliterated into pinyin'. (See AGLC 4, 16.1.) 
 
+Using a reference manager will not only make your citations and referencing consistent, it will allow you to focus on your work rather than losing time having to manually keep track of your sources.

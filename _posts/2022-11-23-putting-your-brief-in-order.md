@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Putting your brief in order
-date:   2022-11-22 18:40:16
+date:   2022-12-01 18:40:16
 description: The editing process
 tags: thesis dissertation  
 categories: reference
@@ -30,5 +30,9 @@ Most institutions now require that the use of an editor be acknowledged in the f
 
 Additionally, further acknowledgement may be required if the editor’s academic background is similar to the student's area of study.
 
-The role of copy-editing and proofreading [has been defined](https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&RendNum=0) as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'. 
+The role of copy-editing and proofreading has been defined as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'.[1] 
+
+--
+
+1. University of Sydney, *Thesis and Examination of Higher Degrees by Research Procedures 2020*, https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&RendNum=0
 
