@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some style considerations (tbc)
+title: Some style considerations 
 date: 2021-11-23 21:01:00
 description: Preparing to submit
 tags: thesis dissertation 
@@ -23,7 +23,7 @@ If you have been left to choose a style, it may be worth reflecting on how you w
 
 Australian spelling convention prefers the use of 's' to the American 'z' in words ending with 'isa', 'ise' and 'yse' (e.g., Americanisation, problematise, analyse). For some, this rule is merely a preference, an accident of history.[1] For our purposes, however, the Macquarie Dictionary is the recognised authority on spelling, so best refer to it as the need arises. (You may even find many 'ize' constructions are acceptable secondary variants.) 
 
-Australian style uses single quote marks around quotations and double within singles. For example, 'this is a word "quoted" within a quotation'. This rule has arguably become less rigid in recent years, so don't panic if you find you have done the opposite throughout your thesis. The matter is further complicated when the --- 
+Australian style uses single quote marks around quotations and double within singles. For example, 'this is a word "quoted" within a quotation'. This rule has arguably become less rigid in recent years, so don't panic if you find you have done the opposite throughout your thesis.  
 
 When long quotations are set as block quotes, the single quotation marks are dropped. Because the indentation effectively functions as single quotes, double quotation marks are used for quotes within a quote. (Different styles have their respective rules regarding the number of words and when to set a longer quotation as a block quote.) 
 
