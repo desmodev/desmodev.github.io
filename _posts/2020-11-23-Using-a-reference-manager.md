@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Using a reference manager
-date: 2021-11-23 21:01:00
 description: Cite, write, repeat
 tags: thesis dissertation
 categories: reference
