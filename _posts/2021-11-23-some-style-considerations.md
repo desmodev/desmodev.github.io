@@ -21,13 +21,13 @@ If you have been left to choose a style, it may be worth reflecting on how you w
 
 **A few points**
 
-Australian spelling convention prefers the use of 's' to the American 'z' in words ending with 'isa', 'ise' and 'yse' (e.g., Americanisation, problematise, analyse). For some, this rule is merely a preference, an accident of history.[1] For our purposes, however, the Macquarie Dictionary is the recognised authority on spelling, so best refer to it as the need arises. (You may even find many 'ize' constructions are acceptable secondary variants.) 
+Australian spelling convention prefers the use of 's' to the American 'z' in words ending with 'isa', 'ise' and 'yse' (e.g., Americanisation, problematise, analyse). For some, this rule is merely a preference, an accident of history.<sup>1</sup> For our purposes, however, the Macquarie Dictionary is the recognised authority on spelling, so best refer to it as the need arises. (You may even find many 'ize' constructions are acceptable secondary variants.) 
 
 Australian style uses single quote marks around quotations and double within singles. For example, 'this is a word "quoted" within a quotation'. This rule has arguably become less rigid in recent years, so don't panic if you find you have done the opposite throughout your thesis. 
 
 When long quotations are set as block quotes, the single quotation marks are dropped. Because the indentation effectively functions as single quotes, double quotation marks are used for quotes within a quote. (Different styles have their respective rules regarding the number of words and when to set a longer quotation as a block quote.) 
 
-Choice of font is often a stylistic one. Although, historically, serif typefaces have been preferred to sans serif in long-form print works, recent research suggests ‘no difference in the legibility of serif and sans serif typefaces either when reading from paper or when reading from screens.’[2] This position is supported in the most recent APA Publication Manual. (See APA 7, 2.19). Nonetheless, as some university style guides continue to recommend 12-point Times New Roman, you should consult with your supervisor for direction. 
+Choice of font is often a stylistic one. Although, historically, serif typefaces have been preferred to sans serif in long-form print works, recent research suggests ‘no difference in the legibility of serif and sans serif typefaces either when reading from paper or when reading from screens.’<sup>2</sup> This position is supported in the most recent APA Publication Manual. (See APA 7, 2.19). Nonetheless, as some university style guides continue to recommend 12-point Times New Roman, you should consult with your supervisor for direction. 
 
 Although certain terms are necessarily defined in the text in the first instance, you may want to consider a glossary, especially if your work is of an interdisciplinary nature; your examiners may come from different fields and their focus will be weighted on their area of expertise. 
 
@@ -39,5 +39,5 @@ The emphasis on originality in the production of academic work means extra care 
 
 --
 
-1. Macquarie Dictionary (blog), 21 January 1014, https://www.macquariedictionary.com.au/blog/article/79/
-2. John T. E. Richardson. (2022). *The Legibility of Serif and Sans Serif Typefaces: Reading from Paper and Reading from Screens*, SpringerBriefs in Education (Springer, 2022), 130, https://doi.org/10.1007/978-3-030-90984-0
+<span>1. Macquarie Dictionary (blog), 21 January 1014, https://www.macquariedictionary.com.au/blog/article/79/</span>
+<span>2. John T. E. Richardson. (2022). *The Legibility of Serif and Sans Serif Typefaces: Reading from Paper and Reading from Screens*, SpringerBriefs in Education (Springer, 2022), 130, https://doi.org/10.1007/978-3-030-90984-0</span>
