@@ -21,6 +21,8 @@ Your supervisor will most likely have requested that your work conform to your u
 
 In many cases, decisions around footnoting and referencing style are left to the student as long as the style is consistent throughout. 
 
+The role of copy-editing and proofreading has been defined as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'.<sup>1</sup>
+
 A thesis is substantively the product of original research and as such requires that your editor follow established guidelines (e.g., the Australian Standards for Editing Practice) which set out the acceptable level of editorial intervention in the text. 
 
 So, for ethical reasons, your editor will be required to carefully moderate their input. 
@@ -28,8 +30,6 @@ So, for ethical reasons, your editor will be required to carefully moderate thei
 Most institutions now require that the use of an editor be acknowledged in the front matter of the thesis. 
 
 Additionally, further acknowledgement may be required if the editor’s academic background is similar to the student's area of study.
-
-The role of copy-editing and proofreading has been defined as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'.<sup>1</sup>
 
 --
 
