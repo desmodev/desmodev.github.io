@@ -33,4 +33,4 @@ The role of copy-editing and proofreading has been defined as 'identifying error
 
 --
 
-<small>1. University of Sydney, *Thesis and Examination of Higher Degrees by Research Procedures 2020*, https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&RendNum=0</small>
+<small>1. University of Sydney, *Thesis and Examination of Higher Degrees by Research Procedures 2020*, [https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&RendNum=0](https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&RendNum=0)</small>

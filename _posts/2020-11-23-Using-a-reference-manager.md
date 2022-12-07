@@ -16,7 +16,7 @@ EndNote is used in combination with a word processor, such as Microsoft Word, al
 
 Part of the work of an editor is to check that each of your citations has a corresponding entry in the reference list and that each your references are cited in the text. In footnoting styles, a bibliography contains all of the references cited as well as additional sources used in writing the thesis. 
 
-So, it's no small wonder that an editor will want to know you have made use of a reference manager in your work. 
+So, an editor will almost certainly want to know whether you've made use of a reference manager in your work. 
 
 Use of a reference manager is especially important for students integrating words from a foreign language into their work. For non-Roman languages, referencing can require transliteration and translation from the original script. This is most easily done at the outset of writing the thesis rather than at the eleventh hour. 
 
