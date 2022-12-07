@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Putting your brief in order
-date:   2022-12-01 18:40:16
+date:   2022-11-23 18:40:16
 description: The editing process
 tags: thesis dissertation  
 categories: reference
