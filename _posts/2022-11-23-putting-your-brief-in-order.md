@@ -31,4 +31,6 @@ Additionally, further acknowledgement may be required if the editor’s academic
 
 The role of copy-editing and proofreading has been defined as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'.<sup>1</sup>
 
+--
+
 <small>1. University of Sydney, *Thesis and Examination of Higher Degrees by Research Procedures 2020*, https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&RendNum=0</small>
