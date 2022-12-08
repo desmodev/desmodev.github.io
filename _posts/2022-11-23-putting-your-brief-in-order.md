@@ -21,7 +21,7 @@ Your supervisor will most likely have requested that your work conform to your u
 
 In many cases, decisions around footnoting and referencing style are left to the student as long as the style is consistent throughout. 
 
-The role of copy-editing and proofreading has been defined as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'. <sup>1</sup>
+The role of copy-editing and proofreading has been defined as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'.<sup>1</sup>
 
 A thesis is substantively the product of original research and as such requires that your editor follow established guidelines (e.g., the Australian Standards for Editing Practice) which set out the acceptable level of editorial intervention in the text. 
 
