@@ -17,7 +17,9 @@ layout: default
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
 
+              {% if page.profile.image_alt %}
               {%- assign profile_image_alt = profile_image_alt -%}
+              {% endif %}              
 
               {% if page.profile.image_circular %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
