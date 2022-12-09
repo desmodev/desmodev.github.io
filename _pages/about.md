@@ -9,7 +9,7 @@ profile:
   align: right
   image: Profile-180x210.jpg
   image_circular: false # crops the image to make it circular
-  image_alt: Des_Devlin
+  image_alt: Des Devlin
   address: >
     <a href=mailto:des@contentmonkey.com.au>des@contentmonkey.com.au</a><br/>
     0421 733 892<br/>
