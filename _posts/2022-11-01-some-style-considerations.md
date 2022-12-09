@@ -38,5 +38,5 @@ The emphasis on originality in the production of academic work means extra care 
 
 --
 
-<small>1. Macquarie Dictionary (blog), 21 January 1014, [https://www.macquariedictionary.com.au/blog/article/79/](https://www.macquariedictionary.com.au/blog/article/79/)</small><br/>
-<small>2. John T. E. Richardson. (2022). *The Legibility of Serif and Sans Serif Typefaces: Reading from Paper and Reading from Screens*, SpringerBriefs in Education (Springer, 2022), 130, [https://doi.org/10.1007/978-3-030-90984-0](https://doi.org/10.1007/978-3-030-90984-0)</small>
+<small>1. Macquarie Dictionary (blog), 21 January 1014, [https://www.macquariedictionary.com.au/blog/article/79/](https://www.macquariedictionary.com.au/blog/article/79/){:target="_blank"}</small><br/>
+<small>2. John T. E. Richardson. (2022). *The Legibility of Serif and Sans Serif Typefaces: Reading from Paper and Reading from Screens*, SpringerBriefs in Education (Springer, 2022), 130, [https://doi.org/10.1007/978-3-030-90984-0](https://doi.org/10.1007/978-3-030-90984-0){:target="_blank"}</small>
