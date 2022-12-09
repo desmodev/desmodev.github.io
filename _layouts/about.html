@@ -26,7 +26,7 @@ layout: default
               {% include figure.html 
               path=profile_image_path 
               class=profile_image_class
-              alt=site.title -%}
+              alt=site.first_name site.last_name -%}
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
