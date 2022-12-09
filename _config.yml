@@ -157,6 +157,8 @@ keep_files:
 
 # Plug-ins
 plugins:
+- jekyll-seo-tag
+
   - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
