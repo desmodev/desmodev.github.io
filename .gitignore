@@ -10,3 +10,4 @@ Gemfile.lock
 vendor
 
 _includes/specialisation.html
+node_modules
