@@ -20,7 +20,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I provide professional copy-editing and proofreading services to HDR students and academics.
+Welcome. I provide professional copy-editing and proofreading services to HDR students and academics. 
+
+I assist with doctoral theses and exegeses, journal articles, books and reports across a variety of fields.
 
 I have been involved in many aspects of academic publishing and professional media production, including proofreading, copy-editing, news sub-editing, archives development, and photographic and video production. 
 
