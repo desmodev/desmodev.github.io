@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
+honorific: Dr
 first_name: Des
-middle_name: 
 last_name: Devlin
 email: des@contentmonkey.com.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Professional proofreading and copy-editing services to HDR students and academics.
+  I provide professional copy-editing and proofreading services to HDR students and academics.
 footer_text: >
   Made with <a href=https://jekyllrb.com/>Jekyll</a>, <a href=https://github.com/alshedivat/al-folio>al-folio</a> and <a href=https://pages.github.com/>GitHub Pages</a>.
 
