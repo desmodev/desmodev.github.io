@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome. I provide professional copy-editing and proofreading services to HDR students and academics. 
+Welcome. I provide professional copy-editing and proofreading services to higher degree research students and academics. 
 
 I assist with doctoral theses and exegeses, journal articles, books and reports across a variety of fields.
 
@@ -28,7 +28,7 @@ I have been involved in many aspects of academic publishing and professional med
 
 My doctoral study focused on research methods in visual ethnography and post/subcultural theory, and my masters research was in the area of ethics and legal studies with a media focus.
 
-Contact me via [email](mailto:des@contentmonkey.com.au) or [phone](tel:+:0421733892) to discuss your requirements. 
+Contact me via [email](mailto:des@contentmonkey.com.au) to discuss your requirements. 
 
 For HDR students, the following posts may be helpful in preparing your thesis:
 
