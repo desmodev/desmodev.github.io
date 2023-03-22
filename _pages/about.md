@@ -13,7 +13,7 @@ profile:
   address: >
     <a href=mailto:des@contentmonkey.com.au>des@contentmonkey.com.au</a><br/>
     0421 733 892<br/>
-    Blue Mountains AU
+    Blue Mountains AU<br/>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
