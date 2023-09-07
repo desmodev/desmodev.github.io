@@ -7,7 +7,7 @@ honorific: # Dr
 first_name: Des
 last_name: Devlin
 alt_name: (moncaí tráchtas)
-email: des@contentmonkey.com.au
+email: desdevlin@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I provide professional copy-editing and proofreading services to HDR students and academics.
 footer_text: >
@@ -199,7 +199,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['PhD', 'masters', 'dissertation', 'thesis', 'editing', 'proofreading' ] # this tags will be dispalyed on the front page of your blog
+display_tags: ['PhD', 'masters', 'dissertation', 'thesis', 'editing', 'proofreading' ] # tags will be displayed on the front page of your blog
 
 
 # -----------------------------------------------------------------------------
