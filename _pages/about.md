@@ -11,8 +11,8 @@ profile:
   image_circular: false # crops the image to make it circular
   image_alt: Des Devlin (学术论文猴子)
   address: >
-    <a href=mailto:des@contentmonkey.com.au>des@contentmonkey.com.au</a><br/>
-    0421 733 892<br/>
+    <a href=mailto:desdevlin@gmail.com>desdevlin@gmail.com</a><br/>
+    Ø421 733 892<br/>
     Blue Mountains AU<br/>
 
 news: false  # includes a list of news items
@@ -28,7 +28,7 @@ I have been involved in many aspects of academic publishing and professional med
 
 My doctoral study focused on research methods in visual ethnography and post/subcultural theory, and my masters research was in the area of ethics and legal studies with a media focus.
 
-Contact me via [email](mailto:des@contentmonkey.com.au) to discuss your requirements. 
+Contact me via [email](mailto:desdevlin@gmail.com) to discuss your requirements. 
 
 For HDR students, the following posts may be helpful in preparing your thesis:
 
