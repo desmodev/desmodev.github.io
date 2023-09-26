@@ -8,13 +8,13 @@ description: I provide professional copy-editing and proofreading services to HD
 profile:
   align: right
   image: Profile-180x210.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false 
   image_alt: Des Devlin (学术论文猴子)
   address: >
     <a href=mailto:desdevlin@gmail.com>desdevlin@gmail.com</a><br/>
     Ø421 733 892<br/>
     Blue Mountains AU<br/>
-
+ 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
