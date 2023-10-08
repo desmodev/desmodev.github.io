@@ -12,7 +12,6 @@ profile:
   image_alt: Des Devlin (学术论文猴子)
   address: >
     <a href=mailto:desdevlin@gmail.com>desdevlin@gmail.com</a><br/>
-    Ø421 733 892<br/>
     Blue Mountains AU<br/>
  
 news: false  # includes a list of news items
