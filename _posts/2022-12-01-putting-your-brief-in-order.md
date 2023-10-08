@@ -17,9 +17,7 @@ They will also likely ask for a word count which, depending on the university, d
 
 An editor may request a sample of your thesis in order to better gauge the level of work required. This is especially so if your thesis integrates words from a non-Roman language. 
 
-Your supervisor will most likely have requested that your work conform to your university’s style guide.  
-
-In many cases, decisions around footnoting and referencing style are left to the student as long as the style is consistent throughout. 
+Your supervisor will most likely have requested that your work conform to your university’s style guide. However, decisions around footnoting and referencing style are often left to the student. The important thing is that the style is consistent throughout. 
 
 The role of copy-editing and proofreading has been defined as 'identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions'.<sup>1</sup>
 
