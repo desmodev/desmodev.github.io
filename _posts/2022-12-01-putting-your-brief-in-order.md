@@ -13,7 +13,7 @@ An important first step in working with an editor is communicating your requirem
 
 An editor will want to know the style you have used throughout your thesis (e.g., an author-date style such as APA, or a notes and bibliography style such as Chicago) and whether the text contains much visual data, such as tables and figures. 
 
-They will also want to you to provide them with a word count which, depending on the university, department or supervisor's preferences, may or may not include your reference list or bibliography, footnotes or endnotes, figures, front matter, appendices and other structural elements of your thesis. 
+They will also likely ask for a word count which, depending on the university, department or supervisor's preferences, may or may not include your reference list or bibliography, footnotes or endnotes, figures, front matter, appendices and other structural elements of your thesis. 
 
 An editor may request a sample of your thesis in order to better gauge the level of work required. This is especially so if your thesis integrates words from a non-Roman language. 
 
