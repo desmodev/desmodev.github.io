@@ -9,7 +9,7 @@ profile:
   align: right
   image: Profile-180x210.jpg
   image_circular: false 
-  image_alt: Des Devlin (学术论文猴子)
+  image_alt: Des Devlin (学术编辑) 
   address: >
     <a href=mailto:desdevlin@gmail.com>desdevlin@gmail.com</a><br/>
     Blue Mountains AU<br/>
