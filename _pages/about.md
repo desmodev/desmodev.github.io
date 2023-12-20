@@ -31,7 +31,11 @@ Contact me via [email](mailto:desdevlin@gmail.com) to discuss your requirements.
 
 For HDR students, the following posts may be helpful in preparing your thesis:
 
-<div class="post">
+- [Putting your brief in order](/articles/2022/putting-your-brief-in-order/)
+- [Some style considerations](/articles/2022/some-style-considerations/)
+- [Using a reference manager](/articles/2022/using-a-reference-manager/)
+
+<!-- div class="post">
            <ul>
             {% for post in site.posts %}
               <li>
@@ -39,4 +43,4 @@ For HDR students, the following posts may be helpful in preparing your thesis:
               </li>
             {% endfor %}
           </ul>
-</div>
+</div -->

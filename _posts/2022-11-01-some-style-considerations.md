@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Some style considerations 
-description: Preparing to submit
-tags: thesis dissertation 
-categories: reference
+description: For those about to engage an editor (or about to embark on their thesis journey), a few points are worth considering with regard to style. 
+tags: thesis writing style 
+categories: 
 ---
 
 Writing is different to putting a thesis together. Even a person with decades of writing experience may be unfamiliar with the conventions of academic writing. 
@@ -32,7 +32,7 @@ Although certain terms are necessarily defined in the text in the first instance
 
 One thing your editor cannot do is check the veracity all of your sources. Use of primary sources is favoured over secondary sources because it reduces a level of complexity that can sometimes be difficult for the reader. 
 
-Remember, there is no guarantee that your editor will pick up all copy-editing and proofreading errors in your text.  So, when quoting from secondary sources, make sure your use of brackets and ellipsis marks correctly indicate the text you have inserted or omitted. 
+Remember, there is no guarantee that your editor will pick up all copy-editing and proofreading errors in your text. So, when quoting from secondary sources, make sure your use of brackets and ellipsis marks correctly indicate the text you have inserted or omitted. 
 
 The emphasis on originality in the production of academic work means extra care should be taken to correctly acknowledge the work of others and to not misrepresent their original meaning in your text. Knowingly using the work of others without acknowledgement is a form of academic misconduct and can have serious consequences. 
 

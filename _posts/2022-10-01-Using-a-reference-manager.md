@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Using a reference manager
-description: Cite, write, repeat
-tags: thesis dissertation
-categories: reference
+description: When writing a thesis of 10,000 words, a reference manager is a good way to manage and keep track of your sources; when putting together a thesis of 80,000–100,000 words, you will quickly become lost without one. 
+tags: thesis referencing EndNote
+categories: 
 ---
 
 When you're writing a thesis of 10,000 words, a reference manager is a good way to manage and keep track of your sources; when putting together a thesis of 80,000 to 100,000 words, you will quickly become lost without one. 
@@ -12,7 +12,7 @@ Though there are a number of reference management software packages to choose fr
 
 For some, learning a reference manager like EndNote can be a little daunting. There is a learning curve. However, investing time early on will reap massive rewards when the time comes to engage a thesis editor. 
 
-EndNote is used in combination with a word processor, such as Microsoft Word, allowing you to create citations and references as you write. Over time, this creates a store of entries in the program's database which will automatically generate your reference list or bibliography, and can be connected to the digital libraries of universities and institutions around the world. 
+EndNote is used in combination with a word processing program, such as Microsoft Word, allowing you to create citations and references as you write. Over time, this creates a store of entries in the program's database which will automatically generate your reference list or bibliography, and can be connected to the digital libraries of universities and institutions around the world. 
 
 Part of the work of an editor is to check that each of your citations has a corresponding entry in the reference list and that each your references are cited in the text. In footnoting styles, a bibliography contains all of the references cited as well as additional sources used in writing the thesis. 
 

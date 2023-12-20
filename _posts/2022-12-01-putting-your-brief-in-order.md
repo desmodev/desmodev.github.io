@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Putting your brief in order
-description: The editing process
-tags: thesis dissertation  
-categories: reference
+description: An important first step in working with an editor is communicating your requirements.
+tags: thesis dissertation requirements 
+categories: 
 inline: false
 ---
 

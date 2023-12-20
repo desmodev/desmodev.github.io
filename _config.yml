@@ -199,7 +199,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['PhD', 'masters', 'dissertation', 'thesis', 'editing', 'proofreading' ] # tags will be displayed on the front page of your blog
+display_tags: ['PhD', 'HDR', 'dissertation', 'thesis', 'editing', 'proofreading' ] # tags will be displayed on the front page of your blog
 
 
 # -----------------------------------------------------------------------------
