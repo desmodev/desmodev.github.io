@@ -7,7 +7,7 @@ categories:
 inline: false
 ---
 
-This post highlights a few issues you may encounter when editing works that incorporate simplified or traditional Chinese using the _Australian Guide to Legal Citation_ (4th edition) referencing system.
+This post offers a few tips on editing texts that incorporate simplified or traditional Chinese source materials using the _Australian Guide to Legal Citation_ (4th edition) referencing system.
 
 **1. Cross-referencing and subsequent references**
 
