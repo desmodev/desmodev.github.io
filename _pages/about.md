@@ -12,7 +12,7 @@ profile:
   image_alt: Des Devlin (学术编辑) 
   address: >
     <a href=mailto:desdevlin@gmail.com>desdevlin@gmail.com</a><br/>
-    Blue Mountains AU<br/>
+    Blue Mountains, NSW, Australia<br/>
  
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -23,7 +23,7 @@ Welcome. I provide professional copy-editing and proofreading services to higher
 
 I assist with doctoral theses and exegeses, journal articles, books and reports across a variety of fields.
 
-I am a professional member of the <a href="https://www.iped-editors.org/">Institute of Professional Editors</a> and have been involved in many aspects of academic publishing and professional media production, including proofreading, copy-editing, news sub-editing, archives development, and photographic and video production. 
+I am a professional member of the <a href="https://www.iped-editors.org/">Institute of Professional Editors</a> and have been involved in many aspects of academic publishing and professional media production, from proofreading, copy-editing, and news sub-editing (print and online) to archives development, and photographic and video production. 
 
 My doctoral study focused on research methods in visual ethnography and post/subcultural theory, and my masters research was in the area of ethics and legal studies with a media focus.
 
