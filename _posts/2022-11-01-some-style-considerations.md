@@ -3,7 +3,6 @@ layout: post
 title: Some style considerations 
 description: For those about to engage an editor (or about to embark on their thesis journey), a few points are worth considering with regard to style. 
 tags: thesis writing style 
-categories: 
 ---
 
 Writing is different to putting a thesis together. Even a person with decades of writing experience may be unfamiliar with the conventions of academic writing. 

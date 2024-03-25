@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Putting your brief in order
+title: Putting your brief in order
 description: An important first step in working with an editor is communicating your requirements.
 tags: thesis dissertation requirements 
-categories: 
 ---
 
 Editorial requirements for your research thesis can vary widely and are often determined by your supervisor. 

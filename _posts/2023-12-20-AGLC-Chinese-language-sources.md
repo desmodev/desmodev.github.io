@@ -3,7 +3,6 @@ layout: post
 title: AGLC & Chinese language sources
 description: This post offers a few tips on editing texts that incorporate simplified or traditional Chinese source materials using the Australian Guide to Legal Citation (AGLC4) referencing system. 
 tags: AGLC Chinese referencing
-categories: 
 ---
 
 This post offers a few tips on editing texts that incorporate simplified or traditional Chinese source materials using the _Australian Guide to Legal Citation_ (4th edition) referencing system.

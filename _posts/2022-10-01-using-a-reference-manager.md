@@ -3,7 +3,6 @@ layout: post
 title: Using a reference manager
 description: When writing a thesis of 10,000 words, a reference manager is a good way to manage and keep track of your sources; when putting together a thesis of 80,000–100,000 words, you will quickly become lost without one. 
 tags: thesis referencing EndNote
-categories: 
 ---
 
 When you're writing a thesis of 10,000 words, a reference manager is a good way to manage and keep track of your sources; when putting together a thesis of 80,000 to 100,000 words, you will quickly become lost without one. 
