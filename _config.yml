@@ -69,12 +69,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: desmodev # your GitHub user name
 mastodon_username: mastodon.ie/@desdev # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: desdevlin # your LinkedIn user name
-work_url: https://contentmonkey.com.au # work page URL
+work_url: https://desdevlin.au # work page URL
 whatsapp_number: 61421733892 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 
 contact_note: >
-  We acknowledge the traditional owners of the Darug and Gundungurra lands on which we work,<br/> and pay respects to elders, past and present.
+  I acknowledge the traditional owners of the Darug and Gundungurra lands on which I live and work.
   
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
