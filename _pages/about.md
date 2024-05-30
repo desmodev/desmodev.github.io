@@ -12,7 +12,7 @@ profile:
   image_alt: Des Devlin (学术编辑) 
   address: >
     <a href=mailto:contact@desdevlin.au>contact@desdevlin.au</a><br/>
-    Blue Mountains, NSW<br/>
+    Blue Mountains, NSW, AU<br/>
  
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
