@@ -12,7 +12,7 @@ profile:
   image_alt: Des Devlin (学术编辑) 
   address: >
     <a href=mailto:contact@desdevlin.au>contact@desdevlin.au</a><br/>
-    Blue Mountains, NSW, Australia<br/>
+    Blue Mountains, NSW<br/>
  
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,7 +27,7 @@ I am a professional member of the <a href="https://www.iped-editors.org/">Instit
 
 My doctoral study focused on research methods in visual ethnography and post/subcultural theory, and my masters research was in the area of ethics and legal studies with a media focus.
 
-Contact me via [email](mailto:desdevlin@gmail.com) to discuss your requirements. 
+Contact me via [email](mailto:contact@desdevlin.au) to discuss your requirements. 
 
 For HDR students, the following posts may be helpful in preparing your thesis:
 
