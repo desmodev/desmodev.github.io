@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 honorific: # Dr 
 first_name: Des
 last_name: Devlin
-alt_name: (moncaí tráchtas)
+# alt_name: (moncaí tráchtas)
 email: contact@desdevlin.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I provide professional copy-editing and proofreading services to HDR students and academics.
