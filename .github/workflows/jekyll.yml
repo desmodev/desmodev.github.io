@@ -22,13 +22,16 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v2 # Updated from v1 to v2 
+        uses: ruby/setup-ruby@v1 
         with:
           ruby-version: '3.2'
           bundler-cache: true
 
       - name: Workaround gem conflict (force Ruby platform)
         run: bundle config set force_ruby_platform true
+
+      - name: Install Bundler
+        run: gem install bundler
 
       - name: Setup Pages
         id: pages
