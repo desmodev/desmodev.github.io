@@ -11,3 +11,4 @@ vendor
 
 _includes/specialisation.html
 node_modules
+.github/workflows/jekyll.yml.old
