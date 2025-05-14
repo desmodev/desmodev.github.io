@@ -27,19 +27,13 @@ jobs:
           ruby-version: '3.2'
           bundler-cache: true
 
+      - name: Install Bundler
+        run: |
+          gem install bundler -v 2.6.9  # Force the installation of Bundler with the correct version
+
       - name: Install dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y libv8-dev libffi-dev libxml2-dev libxslt1-dev zlib1g-dev
-
-      - name: Add ruby platform to Gemfile.lock
-        run: bundle lock --add-platform ruby
-        
-      - name: Install Bundler
-        run: gem install bundler
-
-      - name: Install missing gems
-        run: bundle install
+          bundle install  # Install the required gems
 
       - name: Setup Pages
         id: pages
