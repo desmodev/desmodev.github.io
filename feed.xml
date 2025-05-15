@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-05-15T23:25:03+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>I provide professional copy-editing and proofreading services to HDR students and academics.
+</subtitle><entry><title type="html">AGLC &amp;amp; Chinese language sources</title><link href="http://localhost:4000/articles/2023/AGLC-Chinese-language-sources/" rel="alternate" type="text/html" title="AGLC &amp;amp; Chinese language sources" /><published>2023-12-20T00:00:00+11:00</published><updated>2023-12-20T00:00:00+11:00</updated><id>http://localhost:4000/articles/2023/AGLC-Chinese-language-sources</id><content type="html" xml:base="http://localhost:4000/articles/2023/AGLC-Chinese-language-sources/"><![CDATA[<p>This post offers a few tips on editing texts that incorporate simplified or traditional Chinese source materials using the <em>Australian Guide to Legal Citation</em> (4th edition) referencing system.</p>
+
+<p><strong>1. Cross-referencing and subsequent references</strong></p>
+
+<p>For repeat citations, cross-reference to the initial footnote using the construction (n [page number]).</p>
+
+<p>The convention in English is as follows:</p>
+
+<ul>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	1. Albert HY Chen, <em>An Introduction to the Legal System of the People’s Republic of China</em> (LexisNexis, 4<sup>th</sup> ed, 2015).
+	</li>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	…
+</li>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	3. Chen (n 1).
+</li>
+</ul>
+
+<p>For Chinese sources, the rule (see 16.4.2) is to spell out the author’s name in full, including the translated (pinyin) name:</p>
+
+<ul>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	5. 王先林 [Wang Xianlin], 《知识产权与反垄断法》 [Intellectual Property and Anti-monopoly Law] (法律出版社,2020) [Law Press China, 2020] 243.
+</li>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+    6. Ibid 244.  
+</li>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+    …
+</li>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+    8. 王先林 [Wang Xianlin] (n 5) 248.
+</li>
+</ul>
+
+<p>Be sure to use the cross-reference function in your word processing program (e.g., Microsoft Word) rather than trying to cross-reference manually because, if a footnote is later added or removed, the sequential numbering should remain correct when updated.<sup>1</sup></p>
+
+<p><strong>2. Short titles and subsequent references</strong></p>
+
+<p>Short titles are used as an economic way to present subsequent references to cases or legislation without the need to repeat especially long titles. A short title is inserted at the end of the first instance and styled in italics, within single quotation marks and parentheses.</p>
+
+<p>The AGLC recommends case titles be ‘the first-named party … or the second-named party when the first-named party is the Crown’ (see 1.4.4).</p>
+
+<ul>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	10. <em>Chan Yee Kin v Minister for Immigration &amp; Ethnic Affairs</em> [1989] HCA 62; (1989) 169 CLR 379 (9 December 1989) ('<em>Chan</em>').
+</li>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	…
+</li>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	12. <em>Chan</em> (n 10).
+</li>
+</ul>
+
+<p>Short titles for legislation may appear as either an abbreviation or occasionally as an acronym. For Chinese statutes, the short title would derive from the translated title, as in the following example:</p>
+
+<ul>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	《中华人民共和国反垄断法》[Anti-Monopoly Law of the People's Republic of China] (People's Republic of China) Standing Committee of the National People's Congress, Order No 68, 1 August 2008 (‘<em>Anti-Monopoly Law</em>’ [or ‘<em>AML</em>’]).
+</li>
+</ul>
+
+<p>Two examples provided by the AGLC are ‘<em>ADJR Act</em>’ as an appropriate shortened form for ‘<em>Administrative Decisions (Judicial Review) Act 1977</em> (Cth)’ (see 3.5), and either ‘<em>Australian Consumer Law</em>’ or ‘<em>ACL</em>’ for ‘<em>Competition and Consumer Act 2010</em> (Cth) sch 2’ (see 3.1.7).</p>
+
+<p>Also note that the shortened title and all subsequent references are styled in italics (per 16.4.2).</p>
+
+<p>Interestingly, this italics attribution raises a potentially confusing issue of rule precedence when applying the AGLC to Chinese-language citation and referencing.</p>
+
+<p><strong>3. A question of precedence</strong></p>
+
+<p>Rule 16.1 of the AGLC states (emphasis added):</p>
+
+<ul>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	In citations of Chinese primary materials, <strong>translations of elements appearing in Chinese</strong> should adhere to rule 26.1.1 (i.e., <strong>should appear in square brackets</strong> after the element translated).… 
+</li>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+	Chinese characters should not be italicised, in titles or otherwise. Instead, <strong>where an element of a citation would ordinarily be italicised</strong> according to the relevant rule of this <em>Guide</em>, <strong>Chinese characters forming that element should appear between guillemets</strong> («»).
+</li>
+</ul>
+
+<p>Since journal titles would ordinarily be italicised, this rule appears to suggest that the Chinese journal title should appear between guillemets, with the translated text in square brackets and styled without italics (see 26.1.1). For example:</p>
+
+<ul>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+    《法商研究》[Studies in Law and Business]
+</li>
+</ul>
+
+<p>However, such a rendering of the publication element is not found anywhere in the guide. Rather, journal titles are styled according to rule 16.4.1, which states (emphasis added): ‘Where a source includes a Chinese title and an English title, both should be included in a citation. <strong>The English title should be italicised where appropriate</strong>.’ This is consistent with the general rule regarding journal styling (see 5.5).</p>
+
+<p>Ultimately, the confusion appears to be with the use of the term ‘title’ (see 16.1), which in the publishing world refers to a periodical title or masthead.</p>
+
+<p>The solution, then, is to simply follow examples provided by the guide, such as the following (16.4.1 and 16.4.2 respectively):</p>
+
+<ul>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">
+    山西经济管理干部学院学报 <em>Journal of Shanxi Institute of Economic Management</em>
+</li>
+<li style="list-style-type:none;padding-bottom:.5em;font-size:90%">  
+    行政与法 <em>Public Administration and Law</em>
+</li>
+</ul>
+
+<p>Even the most rigorously edited style guide can contain rules that may sometimes be unclear, and their interpretation can be a challenge. Where questions of precedence arise, understanding where one rule may override another is often best clarified by referring to the examples provided.</p>
+
+<p>–</p>
+
+<p><span style="font-size:80%">1. Footnote numbering should be updated regularly after each edit. For Microsoft Word, this is done by placing the cursor in the footnote area and selecting all by pressing Command + a (Mac) or Control + a (Win). Once all of the document’s footnotes are selected, press fn + F9 (Mac) or F9 (Win). On a Mac, a prompt will appear which reads ‘Word can’t undo this action. Do you want to continue?’ Go ahead and press Yes to update the document’s footnote numbering.</span></p>]]></content><author><name></name></author><category term="AGLC" /><category term="Chinese" /><category term="referencing" /><summary type="html"><![CDATA[This post offers a few tips on editing texts that incorporate simplified or traditional Chinese source materials using the Australian Guide to Legal Citation (AGLC4) referencing system.]]></summary></entry><entry><title type="html">Putting your brief in order</title><link href="http://localhost:4000/articles/2022/putting-your-brief-in-order/" rel="alternate" type="text/html" title="Putting your brief in order" /><published>2022-12-01T00:00:00+11:00</published><updated>2022-12-01T00:00:00+11:00</updated><id>http://localhost:4000/articles/2022/putting-your-brief-in-order</id><content type="html" xml:base="http://localhost:4000/articles/2022/putting-your-brief-in-order/"><![CDATA[<p>Editorial requirements for your research thesis can vary widely and are often determined by your supervisor.</p>
+
+<p>An important first step in working with an editor is communicating your requirements. Think of this as providing a brief.</p>
+
+<p>An editor will want to know the style you have used throughout your thesis (e.g., an author-date style such as APA, or a notes and bibliography style such as Chicago) and whether the text contains much visual data, such as tables and figures.</p>
+
+<p>They will also likely ask for a word count which, depending on the university, department or supervisor’s preferences, may or may not include your reference list or bibliography, footnotes or endnotes, figures, front matter, appendices and other structural elements of your thesis.</p>
+
+<p>An editor may request a sample of your thesis in order to better gauge the level of work required. This is especially so if your thesis integrates words from a non-Roman language.</p>
+
+<p>Your supervisor will most likely have requested that your work conform to your university’s style guide. However, decisions around footnoting and referencing style are often left to the student. The important thing is that the style is consistent throughout.</p>
+
+<p>The role of copy-editing and proofreading has been defined as ‘identifying errors in, and correcting, the presentation of the text so as to conform with standard usage and conventions’.<sup>1</sup></p>
+
+<p>A thesis is substantively the product of original research and as such requires that your editor follow established guidelines (e.g., the Australian Standards for Editing Practice) which set out the acceptable level of editorial intervention in the text. So, for ethical reasons, your editor will be required to carefully moderate their input.</p>
+
+<p>Most institutions now require that the use of an editor be acknowledged in the front matter of the thesis. Additionally, further acknowledgement may be required if the editor’s academic background is similar to the student’s area of study.</p>
+
+<p>–</p>
+
+<p><small>1. University of Sydney, <em>Thesis and Examination of Higher Degrees by Research Procedures 2020</em>, <a href="https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&amp;RendNum=0" target="_blank">https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2014/375&amp;RendNum=0</a></small></p>]]></content><author><name></name></author><category term="thesis" /><category term="dissertation" /><category term="requirements" /><summary type="html"><![CDATA[An important first step in working with an editor is communicating your requirements.]]></summary></entry><entry><title type="html">Some style considerations</title><link href="http://localhost:4000/articles/2022/some-style-considerations/" rel="alternate" type="text/html" title="Some style considerations" /><published>2022-11-01T00:00:00+11:00</published><updated>2022-11-01T00:00:00+11:00</updated><id>http://localhost:4000/articles/2022/some-style-considerations</id><content type="html" xml:base="http://localhost:4000/articles/2022/some-style-considerations/"><![CDATA[<p>Writing is different to putting a thesis together. Even a person with decades of writing experience may be unfamiliar with the conventions of academic writing.</p>
+
+<p>For those about to engage an editor (or about to embark on their thesis journey), a few points are worth considering with regard to style.</p>
+
+<p>A thesis is almost always sent to an editor as a necessary, final step before being submitted for examination. The research will be complete, and the writing mostly done; a style will have been chosen and employed early on, and the presentation and formatting will be consistent with the university’s requirements.</p>
+
+<p>Some styles are preferred to others within certain disciplines, which will likely be reflected by the style guidelines recommended to you at the start of your research. Law schools, for example, will recommend you adopt the use of the Australian Guide to Legal Citation (AGLC). Psychology departments are going to be partial to APA, the style of the American Psychological Association, though this style is favoured across many humanities and social science disciplines as well.</p>
+
+<p>If a style has been recommended to you, try to stay with one edition as major revisions can apply to rules of style from one edition to the next.</p>
+
+<p>If you have been left to choose a style, it may be worth reflecting on how you write before deciding. If you tend to write a lot of lengthy footnotes, perhaps a footnote style is a more natural fit.</p>
+
+<p><strong>A few points</strong></p>
+
+<p>Australian spelling convention prefers the use of ‘s’ to the American ‘z’ in words ending with ‘isa’, ‘ise’ and ‘yse’ (e.g., Americanisation, problematise, analyse). For some, this rule is merely a preference, an accident of history.<sup>1</sup> For our purposes, however, the Macquarie Dictionary is the recognised authority on spelling, so best refer to it as the need arises. (You may even find many ‘ize’ constructions are acceptable secondary variants.)</p>
+
+<p>Australian style uses single quote marks around quotations and double within singles. For example, ‘this is a word “quoted” within a quotation’. This rule has arguably become less rigid in recent years, so don’t panic if you find you have done the opposite throughout your thesis.</p>
+
+<p>When long quotations are set as block quotes, the single quotation marks are dropped. Because the indentation effectively functions as single quotes, double quotation marks are used for quotes within a quote. (Different styles have their respective rules regarding the number of words and when to set a longer quotation as a block quote.)</p>
+
+<p>Choice of font is often a stylistic one. Although, historically, serif typefaces have been preferred to sans serif in long-form print works, recent research suggests ‘no difference in the legibility of serif and sans serif typefaces either when reading from paper or when reading from screens.’<sup>2</sup> This position is supported in the most recent APA Publication Manual. (See APA 7, 2.19.) Nonetheless, as some university style guides continue to recommend 12-point Times New Roman, you should consult with your supervisor for direction.</p>
+
+<p>Although certain terms are necessarily defined in the text in the first instance, you may want to consider a glossary, especially if your work is of an interdisciplinary nature; your examiners may come from different fields and their focus will be weighted on their area of expertise.</p>
+
+<p>One thing your editor cannot do is check the veracity all of your sources. Use of primary sources is favoured over secondary sources because it reduces a level of complexity that can sometimes be difficult for the reader.</p>
+
+<p>Remember, there is no guarantee that your editor will pick up all copy-editing and proofreading errors in your text. So, when quoting from secondary sources, make sure your use of brackets and ellipsis marks correctly indicate the text you have inserted or omitted.</p>
+
+<p>The emphasis on originality in the production of academic work means extra care should be taken to correctly acknowledge the work of others and to not misrepresent their original meaning in your text. Knowingly using the work of others without acknowledgement is a form of academic misconduct and can have serious consequences.</p>
+
+<p>–</p>
+
+<p><small>1. Macquarie Dictionary (blog), 21 January 1014, <a href="https://www.macquariedictionary.com.au/blog/article/79/" target="_blank">https://www.macquariedictionary.com.au/blog/article/79/</a></small><br />
+<small>2. John T. E. Richardson. (2022). <em>The Legibility of Serif and Sans Serif Typefaces: Reading from Paper and Reading from Screens</em>, SpringerBriefs in Education (Springer, 2022), 130, <a href="https://doi.org/10.1007/978-3-030-90984-0" target="_blank">https://doi.org/10.1007/978-3-030-90984-0</a></small></p>]]></content><author><name></name></author><category term="thesis" /><category term="writing" /><category term="style" /><summary type="html"><![CDATA[For those about to engage an editor (or about to embark on their thesis journey), a few points are worth considering with regard to style.]]></summary></entry><entry><title type="html">Using a reference manager</title><link href="http://localhost:4000/articles/2022/using-a-reference-manager/" rel="alternate" type="text/html" title="Using a reference manager" /><published>2022-10-01T00:00:00+10:00</published><updated>2022-10-01T00:00:00+10:00</updated><id>http://localhost:4000/articles/2022/using-a-reference-manager</id><content type="html" xml:base="http://localhost:4000/articles/2022/using-a-reference-manager/"><![CDATA[<p>When you’re writing a thesis of 10,000 words, a reference manager is a good way to manage and keep track of your sources; when putting together a thesis of 80,000 to 100,000 words, you will quickly become lost without one.</p>
+
+<p>Though there are a number of reference management software packages to choose from, your university most likely provided you with a version of EndNote at the start of your studies, and a workshop on its use may also have been offered.</p>
+
+<p>For some, learning a reference manager like EndNote can be a little daunting. There is a learning curve. However, investing time early on will reap massive rewards when the time comes to engage a thesis editor.</p>
+
+<p>EndNote is used in combination with a word processing program, such as Microsoft Word, allowing you to create citations and references as you write. Over time, this creates a store of entries in the program’s database which will automatically generate your reference list or bibliography, and can be connected to the digital libraries of universities and institutions around the world.</p>
+
+<p>Part of the work of an editor is to check that each of your citations has a corresponding entry in the reference list and that each your references are cited in the text. In footnoting styles, a bibliography contains all of the references cited as well as additional sources used in writing the thesis.</p>
+
+<p>So, an editor will almost certainly want to know whether you’ve made use of a reference manager in your work.</p>
+
+<p>Use of a reference manager is especially important for students integrating words from a foreign language into their work. For non-Roman languages, referencing can require transliteration and translation from the original script. This is most easily done at the outset of writing the thesis rather than at the eleventh hour.</p>
+
+<p>For those incorporating a non-Roman language and writing within the discipline of law, the rules are different again. For example, the Australian Guide to Legal Citation requires that, when citing Chinese primary materials, ‘Chinese characters that appear in the source should not be transliterated into pinyin’. (See AGLC 4, 16.1.)</p>
+
+<p>Using a reference manager will not only make your citations and referencing consistent, it will allow you to focus on your work rather than losing time having to manually keep track of your sources.</p>]]></content><author><name></name></author><category term="thesis" /><category term="referencing" /><category term="EndNote" /><summary type="html"><![CDATA[When writing a thesis of 10,000 words, a reference manager is a good way to manage and keep track of your sources; when putting together a thesis of 80,000–100,000 words, you will quickly become lost without one.]]></summary></entry></feed>
