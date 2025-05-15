@@ -6,7 +6,8 @@ _site
 .DS_store
 .ruby-version
 .tweet-cache
-vendor
+/vendor/bundle/
+/.bundle/
 
 _includes/specialisation.html
 node_modules
