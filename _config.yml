@@ -66,7 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: desmodev # your GitHub user name
-mastodon_username: mastodon.ie/@desdev # your mastodon instance+username in the format instance.tld/@username
+#mastodon_username: mastodon.ie/@desdev # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: desdevlin # your LinkedIn user name
 work_url: https://desdevlin.au # work page URL
 whatsapp_number: 61421733892 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
